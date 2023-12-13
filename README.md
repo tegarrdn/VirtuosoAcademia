@@ -12,6 +12,7 @@
 ![Screenshot 2023-12-13 170049](https://github.com/tegarrdn/VirtuosoAcademia/assets/61616229/1b2d52aa-eb8c-4ec4-8078-879db283a086)
 
 # How To Run
+npm install
 npm start
 
 # Kelompok D
