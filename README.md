@@ -15,7 +15,7 @@
 npm start
 
 # Kelompok D
-*Tegar Ramadhani (20670038)
-*Doni Fahri Hilmawan (20670029)
-*Vicky Wijaya (20670020)
-*Muhammad Rafidivah Gemilang (20670031)
+* Tegar Ramadhani (20670038)
+* Doni Fahri Hilmawan (20670029)
+* Vicky Wijaya (20670020)
+* Muhammad Rafidivah Gemilang (20670031)
