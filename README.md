@@ -1,70 +1,21 @@
-# Getting Started with Create React App
+# Screenshots
+![Screenshot 2023-12-13 165912](https://github.com/tegarrdn/VirtuosoAcademia/assets/61616229/8a7e4076-64ef-40fb-ac99-5a59922c234b)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot 2023-12-13 165922](https://github.com/tegarrdn/VirtuosoAcademia/assets/61616229/c2c0ba87-18a9-4ead-bbfb-480343eadba7)
 
-## Available Scripts
+![Screenshot 2023-12-13 165932](https://github.com/tegarrdn/VirtuosoAcademia/assets/61616229/c7f3da1e-af74-45c2-810b-cb0e8dd1b9ce)
 
-In the project directory, you can run:
+![Screenshot 2023-12-13 165944](https://github.com/tegarrdn/VirtuosoAcademia/assets/61616229/9843f549-def6-4b54-8342-c4d6b0c0e76a)
 
-### `npm start`
+![Screenshot 2023-12-13 165956](https://github.com/tegarrdn/VirtuosoAcademia/assets/61616229/33125e5f-14d0-4003-807b-118ef4adcfef)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![Screenshot 2023-12-13 170049](https://github.com/tegarrdn/VirtuosoAcademia/assets/61616229/1b2d52aa-eb8c-4ec4-8078-879db283a086)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# How To Run
+npm start
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Kelompok D
+Tegar Ramadhani (20670038)
+Doni Fahri Hilmawan (20670029)
+Vicky Wijaya (20670020)
+Muhammad Rafidivah Gemilang (20670031)
